@@ -21,14 +21,22 @@ body{
     padding-left: 24px;
 }
 .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
-    color: #fff; !important;
+    color: #fff !important;
 }
 .nav-pills>li>a:focus, .nav-pills>li>a:hover {
-    color: #00d9a4; !important;
+    color: #00d9a4 !important;
 }
 #logo {
     width: 220px;
 }
 .nav {
-    margin-top: 100px;
+    margin-top: 150px;
+}
+
+.row{
+    background-color: white;
+}
+
+.nav li{
+    background-color: rgb(240,240,255);
 }
